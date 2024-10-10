@@ -29,6 +29,7 @@ A curated list of resources, tools, and best practices to enhance efficiency acr
 - **[Coda](https://coda.io/)** - *[Review](https://productivity.directory/coda)* - A powerful doc that brings words, data, and teams together with tables, views, and interactive content.
 - **[Bear](https://bear.app/)** - *[Review](https://productivity.directory/bear)* - A writing app for crafting notes and prose with advanced Markdown support.
 - **[TiddlyWiki](https://tiddlywiki.com/)** - *Review* - A unique non-linear notebook for capturing, organizing, and sharing complex ideas.
+- **[Riffo](https://riffo.ai/)** - *Review* - An AI-powered file management tool for bulk renaming and automatic folder organization.
 
 ## Time Management
 
